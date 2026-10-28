@@ -1,0 +1,3235 @@
+﻿# Game German translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2026-10-28 18:42\n"
+"PO-Revision-Date: 2026-10-28 18:42\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	BuildingName_HealthPacks
+#. SourceLocation:	/Game/StringTables/ST_Buildings.ST_Buildings
+#: /Game/StringTables/ST_Buildings.ST_Buildings
+msgctxt "ST_Buildings,BuildingName_HealthPacks"
+msgid "Health Packs"
+msgstr "Erste Hilfe"
+
+#. Key:	BuildingName_StalwartFriend
+#. SourceLocation:	/Game/StringTables/ST_Buildings.ST_Buildings
+#: /Game/StringTables/ST_Buildings.ST_Buildings
+msgctxt "ST_Buildings,BuildingName_StalwartFriend"
+msgid "Stalwart Friend"
+msgstr "Treuer Freund"
+
+#. Key:	BuildingName_StrikeShield
+#. SourceLocation:	/Game/StringTables/ST_Buildings.ST_Buildings
+#: /Game/StringTables/ST_Buildings.ST_Buildings
+msgctxt "ST_Buildings,BuildingName_StrikeShield"
+msgid "Shield"
+msgstr "Schild"
+
+#. Key:	Faction_Coalition
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Coalition"
+msgid "Coalition"
+msgstr "Koalition"
+
+#. Key:	Faction_Coalition_JoinTeam
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Coalition_JoinTeam"
+msgid "has joined the Coalition."
+msgstr "ist der Koalition beigetreten."
+
+#. Key:	Faction_Coalition_WinGame
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Coalition_WinGame"
+msgid "The Coaltion won the game!"
+msgstr "Die Koalition hat das Spiel gewonnen!"
+
+#. Key:	Faction_Coalition_WinRound
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Coalition_WinRound"
+msgid "The Coalition wins the round!"
+msgstr "Die Koalition hat die Runde gewonnen!"
+
+#. Key:	Faction_Mercenaries
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Mercenaries"
+msgid "Mercenaries"
+msgstr "Söldner"
+
+#. Key:	Faction_Mercenaries_JoinTeam
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Mercenaries_JoinTeam"
+msgid "has joined the Mercenaries."
+msgstr "ist den Söldnern beigetreten."
+
+#. Key:	Faction_Mercenaries_WinGame
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Mercenaries_WinGame"
+msgid "The Mercenaries won the game!"
+msgstr "Die Söldner haben das Spiel gewonnen!"
+
+#. Key:	Faction_Mercenaries_WinRound
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Mercenaries_WinRound"
+msgid "The Mercenaries win the round!"
+msgstr "Die Söldner haben die Runde gewonnen!"
+
+#. Key:	Faction_Nancoids
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Nancoids"
+msgid "Nancoids"
+msgstr "Nancoids"
+
+#. Key:	Faction_Nancoids_JoinTeam
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Nancoids_JoinTeam"
+msgid "has joined the Nancoids."
+msgstr "ist den Nancoids beigetreten."
+
+#. Key:	Faction_Nancoids_WinGame
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Nancoids_WinGame"
+msgid "Nancoids won the game!"
+msgstr "Die Nancoids haben das Spiel gewonnen!"
+
+#. Key:	Faction_Nancoids_WinRound
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Nancoids_WinRound"
+msgid "Nancoids win the round!"
+msgstr "Die Nancoids haben die Runde gewonnen!"
+
+#. Key:	Faction_Rebels
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Rebels"
+msgid "Rebels"
+msgstr "Rebellen"
+
+#. Key:	Faction_Rebels_JoinTeam
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Rebels_JoinTeam"
+msgid "has joined the Rebels."
+msgstr "ist den Rebellen beigetreten."
+
+#. Key:	Faction_Rebels_WinGame
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Rebels_WinGame"
+msgid "The Rebels won the game!"
+msgstr "Die Rebellen haben das Spiel gewonnen!"
+
+#. Key:	Faction_Rebels_WinRound
+#. SourceLocation:	/Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+#: /Game/StringTables/ST_DefaultFactions.ST_DefaultFactions
+msgctxt "ST_DefaultFactions,Faction_Rebels_WinRound"
+msgid "The Rebels win the round!"
+msgstr "Die Rebellen haben die Runde gewonnen!"
+
+#. Key:	DevCommentary_PlayNode
+#. SourceLocation:	/Game/StringTables/ST_DevCommentary.ST_DevCommentary
+#: /Game/StringTables/ST_DevCommentary.ST_DevCommentary
+msgctxt "ST_DevCommentary,DevCommentary_PlayNode"
+msgid "Play"
+msgstr "Start"
+
+#. Key:	DevCommentary_StopNode
+#. SourceLocation:	/Game/StringTables/ST_DevCommentary.ST_DevCommentary
+#: /Game/StringTables/ST_DevCommentary.ST_DevCommentary
+msgctxt "ST_DevCommentary,DevCommentary_StopNode"
+msgid "Stop"
+msgstr "Stoppen"
+
+#. Key:	DevCommentary_Title
+#. SourceLocation:	/Game/StringTables/ST_DevCommentary.ST_DevCommentary
+#: /Game/StringTables/ST_DevCommentary.ST_DevCommentary
+msgctxt "ST_DevCommentary,DevCommentary_Title"
+msgid "Developer Commentary"
+msgstr "Entwicklerkommentar"
+
+#. Key:	GamemodeDesc_Deathmatch
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeDesc_Deathmatch"
+msgid "In war, only the strongest survive. Prove you have what it takes. Kill them all."
+msgstr "Im Krieg überleben die Stärksten. Beweise, dass du würdig bist. Töte sie alle."
+
+#. Key:	GamemodeDesc_Dev
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeDesc_Dev"
+msgid "00101111 00101111 00100000 01001001 01001110 01010100 01010010 01010101 01000100 01000101 01010010 00100000 00101111 00101111 00100000 01001001 01001110 01010100 01010010 01010101 01000100 01000101 01010010 00100000 00101111 00101111 00100000 01001001 01001110 01010100 01010010 01010101 01000100 01000101 01010010 00100000 00101111 00101111"
+msgstr "00101111 00101111 00100000 01001001 01001110 01010100 01010010 01010101 01000100 01000101 01010010 00100000 00101111 00101111 00100000 01001001 01001110 01010100 01010010 01010101 01000100 01000101 01010010 00100000 00101111 00101111 00100000 01001001 01001110 01010100 01010010 01010101 01000100 01000101 01010010 00100000 00101111 00101111"
+
+#. Key:	GamemodeDesc_Frontline
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeDesc_Frontline"
+msgid "Our superiors demand this land. Capture it at any cost."
+msgstr "Unsere Vorgesetzten befehlen die Übernahme dieser Stellungen. Nimm sie um jeden Preis ein."
+
+#. Key:	GamemodeDesc_Koth
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeDesc_Koth"
+msgid "A high-priority objective has been declared. Capture and hold it at any cost."
+msgstr "Der Feind will eine wichtige Stellung übernehmen. Das Ziel muss gesichert und gehalten werden bis Verstärkung ankommen kann."
+
+#. Key:	GamemodeDesc_Offensive
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeDesc_Offensive"
+msgid "We are on the march. Capture all zones. Reinforcements are limited. Improvise."
+msgstr "Es ist soweit. Alle Zonen müssen übernommen werden. Nur limitierte Verstärkungen sind verfügbar. Improvisieren und ausführen."
+
+#. Key:	GamemodeDesc_Siege
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeDesc_Siege"
+msgid "We are surrounded. Defend every angle, fight for every inch. Hold the central sector at all costs."
+msgstr "Wir sind umstellt. Lass den Feind für jede Ecke und jeden Zentimeter mit Blut bezahlen. Der zentrale Sektor muss um jeden Preis gehalten werden."
+
+#. Key:	GamemodeDesc_Training
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeDesc_Training"
+msgid "#Desc to be added #"
+msgstr "#Desc to be added #"
+
+#. Key:	GamemodeMsg_Deathmatch_Initial
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeMsg_Deathmatch_Initial"
+msgid "Welcome to the Arena. Kill them all!"
+msgstr "Willkommen in der Arena. Töte sie alle!"
+
+#. Key:	GamemodeMsg_Frontline_AdvanceToNextSector
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeMsg_Frontline_AdvanceToNextSector"
+msgid "Advance to the next sector"
+msgstr "Rücke zum nächsten Sektor vor"
+
+#. Key:	GamemodeMsg_Frontline_AllSectorsCaptured
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeMsg_Frontline_AllSectorsCaptured"
+msgid "They are all ours now!"
+msgstr "Alle gehören uns!"
+
+#. Key:	GamemodeMsg_Frontline_AllSectorsLost
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeMsg_Frontline_AllSectorsLost"
+msgid "Take 'em back! NOW!"
+msgstr "Alle zurückerobern! SOFORT!"
+
+#. Key:	GamemodeMsg_Frontline_DefendNextSector
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeMsg_Frontline_DefendNextSector"
+msgid "Defend the next sector"
+msgstr "Verteidige den nächsten Sektor"
+
+#. Key:	GamemodeMsg_Frontline_Initial_Attack
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeMsg_Frontline_Initial_Attack"
+msgid "Capture all control points in the sector before time runs out!"
+msgstr "Erobere alle Ziele im Sektor bevor die Zeit vergeht!"
+
+#. Key:	GamemodeMsg_Frontline_Initial_Defend
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeMsg_Frontline_Initial_Defend"
+msgid "Defend all control points in the sector until time runs out!"
+msgstr "Verteidige alle Ziele im Sektor bis die Zeit vorüber ist!"
+
+#. Key:	GamemodeMsg_Frontline_SectorCaptured
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeMsg_Frontline_SectorCaptured"
+msgid "Sector Captured"
+msgstr "Sektor eingenommen"
+
+#. Key:	GamemodeMsg_Frontline_SectorLost
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeMsg_Frontline_SectorLost"
+msgid "Sector Lost"
+msgstr "Sektor verloren"
+
+#. Key:	GamemodeMsg_Koth_DefendPoint
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeMsg_Koth_DefendPoint"
+msgid "Defend it until time runs out"
+msgstr "Verteidige es bis die Zeit abläuft"
+
+#. Key:	GamemodeMsg_Koth_Initial
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeMsg_Koth_Initial"
+msgid "Capture and hold the control point to win the game!"
+msgstr "Erobere und verteidige das Ziel bis die Zeit vorüber ist!"
+
+#. Key:	GamemodeMsg_Koth_PointCaptured
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeMsg_Koth_PointCaptured"
+msgid "Point Captured"
+msgstr "Ziel Eingenommen"
+
+#. Key:	GamemodeMsg_Koth_PointLost
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeMsg_Koth_PointLost"
+msgid "Point Lost"
+msgstr "Ziel Verloren"
+
+#. Key:	GamemodeMsg_Koth_RecapturePoint
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeMsg_Koth_RecapturePoint"
+msgid "Take it back before time runs out"
+msgstr "Erobere es wieder bevor die Zeit abläuft"
+
+#. Key:	GamemodeName_Deathmatch
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeName_Deathmatch"
+msgid "Deathmatch"
+msgstr "Deathmatch"
+
+#. Key:	GamemodeName_Dev
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeName_Dev"
+msgid "Developer"
+msgstr "Entwickler"
+
+#. Key:	GamemodeName_Frontline
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeName_Frontline"
+msgid "Frontline"
+msgstr "Frontlinie"
+
+#. Key:	GamemodeName_Koth
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeName_Koth"
+msgid "King of the Hill"
+msgstr "King of the Hill"
+
+#. Key:	GamemodeName_Offensive
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeName_Offensive"
+msgid "Offensive"
+msgstr "Offensive"
+
+#. Key:	GamemodeName_Siege
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeName_Siege"
+msgid "Siege"
+msgstr "Belagerung"
+
+#. Key:	GamemodeName_Training
+#. SourceLocation:	/Game/StringTables/ST_Gamemodes.ST_Gamemodes
+#: /Game/StringTables/ST_Gamemodes.ST_Gamemodes
+msgctxt "ST_Gamemodes,GamemodeName_Training"
+msgid "Training"
+msgstr "Training"
+
+#. Key:	SupplyAmmoLarge
+#. SourceLocation:	/Game/StringTables/ST_Interactables.ST_Interactables
+#: /Game/StringTables/ST_Interactables.ST_Interactables
+msgctxt "Interactables,SupplyAmmoLarge"
+msgid "Large Ammo Pack"
+msgstr "Grosses Munitionspaket"
+
+#. Key:	SupplyAmmoMedium
+#. SourceLocation:	/Game/StringTables/ST_Interactables.ST_Interactables
+#: /Game/StringTables/ST_Interactables.ST_Interactables
+msgctxt "Interactables,SupplyAmmoMedium"
+msgid "Medium Ammo Pack"
+msgstr "Mittleres Munitionspaket"
+
+#. Key:	SupplyAmmoSmall
+#. SourceLocation:	/Game/StringTables/ST_Interactables.ST_Interactables
+#: /Game/StringTables/ST_Interactables.ST_Interactables
+msgctxt "Interactables,SupplyAmmoSmall"
+msgid "Small Ammo Pack"
+msgstr "Kleines Munitionspaket"
+
+#. Key:	SupplyHealthLarge
+#. SourceLocation:	/Game/StringTables/ST_Interactables.ST_Interactables
+#: /Game/StringTables/ST_Interactables.ST_Interactables
+msgctxt "Interactables,SupplyHealthLarge"
+msgid "Large Health Pack"
+msgstr "Grosses Erste-Hilfe Kit"
+
+#. Key:	SupplyHealthMedium
+#. SourceLocation:	/Game/StringTables/ST_Interactables.ST_Interactables
+#: /Game/StringTables/ST_Interactables.ST_Interactables
+msgctxt "Interactables,SupplyHealthMedium"
+msgid "Medium Health Pack"
+msgstr "Mittleres Erste-Hilfe Kit"
+
+#. Key:	SupplyHealthSmall
+#. SourceLocation:	/Game/StringTables/ST_Interactables.ST_Interactables
+#: /Game/StringTables/ST_Interactables.ST_Interactables
+msgctxt "Interactables,SupplyHealthSmall"
+msgid "Small Health Pack"
+msgstr "Kleines Erste-Hilfe Kit"
+
+#. Key:	AreYouSure
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,AreYouSure"
+msgid "Are You Sure?"
+msgstr "Bist du sicher?"
+
+#. Key:	BrowseServer
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,BrowseServer"
+msgid "Browse"
+msgstr "Entdecken"
+
+#. Key:	ConnectingToServer
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,ConnectingToServer"
+msgid "Connecting to server..."
+msgstr "Verbinde mit Server..."
+
+#. Key:	CreateServer
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,CreateServer"
+msgid "Create"
+msgstr "Erstellen"
+
+#. Key:	Empty
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,Empty"
+msgid "Empty"
+msgstr "Leer"
+
+#. Key:	Filters
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,Filters"
+msgid "Filters"
+msgstr "Filter"
+
+#. Key:	FindGame
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,FindGame"
+msgid "Find a game"
+msgstr "Spiel Finden"
+
+#. Key:	FindServers
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,FindServers"
+msgid "Find a server"
+msgstr "Server Finden"
+
+#. Key:	GamemodeSelection_NoMapsForGamemode
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,GamemodeSelection_NoMapsForGamemode"
+msgid "There are no available maps for this gamemode."
+msgstr "Für diesen Spielmodus sind keine Maps verfügbar."
+
+#. Key:	GoBack
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,GoBack"
+msgid "Back"
+msgstr "Zurück"
+
+#. Key:	HostServer
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,HostServer"
+msgid "Host a Server"
+msgstr "Server hosten"
+
+#. Key:	LaunchLocalMap
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LaunchLocalMap"
+msgid "Launch Map"
+msgstr "Map starten"
+
+#. Key:	Loading
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,Loading"
+msgid "Loading..."
+msgstr "Lade..."
+
+#. Key:	LoadingMaps
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LoadingMaps"
+msgid "Loading maps..."
+msgstr "Lade Maps..."
+
+#. Key:	Lobby_HostServerDesc
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,Lobby_HostServerDesc"
+msgid "Host a Public Server"
+msgstr "Hoste einen Server"
+
+#. Key:	LobbyChosenGamemode
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbyChosenGamemode"
+msgid "Chosen gamemode"
+msgstr "Selektierter Spielmodus"
+
+#. Key:	LobbyChosenMap
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbyChosenMap"
+msgid "Chosen map"
+msgstr "Selektierte Map"
+
+#. Key:	LobbyClose
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbyClose"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. Key:	LobbyConfirm
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbyConfirm"
+msgid "Confirm"
+msgstr "Bestätigen"
+
+#. Key:	LobbyGamemode
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbyGamemode"
+msgid "Gamemode"
+msgstr "Spielmodus"
+
+#. Key:	LobbyGamemodes
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbyGamemodes"
+msgid "Gamemodes"
+msgstr "Spielmodus"
+
+#. Key:	LobbyHost
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbyHost"
+msgid "Host"
+msgstr "Host"
+
+#. Key:	LobbyMaxPlayers
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbyMaxPlayers"
+msgid "Max Players"
+msgstr "Max Spieler"
+
+#. Key:	LobbyPlayers
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbyPlayers"
+msgid "Players"
+msgstr "Spieler"
+
+#. Key:	LobbyQuit
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbyQuit"
+msgid "Disconnect"
+msgstr "Verlassen"
+
+#. Key:	LobbySelectGamemode
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbySelectGamemode"
+msgid "Select Gamemode"
+msgstr "Spielmodus Auswählen"
+
+#. Key:	LobbySelectMap
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbySelectMap"
+msgid "Select Map"
+msgstr "Map Auswählen"
+
+#. Key:	LobbyStartGame
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbyStartGame"
+msgid "Start Game"
+msgstr "Spiel Starten"
+
+#. Key:	LobbyStartingGame
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbyStartingGame"
+msgid "Starting..."
+msgstr "Starte..."
+
+#. Key:	LobbyTitle
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbyTitle"
+msgid "Lobby"
+msgstr "Lobby"
+
+#. Key:	LobbyWait
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,LobbyWait"
+msgid "Wait..."
+msgstr "Warten..."
+
+#. Key:	MainLobby
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,MainLobby"
+msgid "Main Lobby"
+msgstr "Hauptlobby"
+
+#. Key:	MainMenu
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,MainMenu"
+msgid "Main menu"
+msgstr "Hauptmenü"
+
+#. Key:	MenuSteamNotConnected
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,MenuSteamNotConnected"
+msgid "Not Connected to Steam"
+msgstr "Nicht mit Steam verbunden"
+
+#. Key:	ModeSelection_Heading
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,ModeSelection_Heading"
+msgid "Mode Selection"
+msgstr "Modusauswahl"
+
+#. Key:	Multiplayer
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,Multiplayer"
+msgid "Multiplayer"
+msgstr "Multiplayer"
+
+#. Key:	OfflineGame
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,OfflineGame"
+msgid "Offline"
+msgstr "Offline"
+
+#. Key:	PausedGame
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,PausedGame"
+msgid "Pause"
+msgstr "Pause"
+
+#. Key:	Play
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,Play"
+msgid "Play"
+msgstr "Spielen"
+
+#. Key:	Player
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,Player"
+msgid "Player"
+msgstr "Spieler"
+
+#. Key:	PopUp_NotSure
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,PopUp_NotSure"
+msgid "No"
+msgstr "Nö"
+
+#. Key:	PopUp_Sure
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,PopUp_Sure"
+msgid "Yes"
+msgstr "Ja"
+
+#. Key:	Quit
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,Quit"
+msgid "Quit"
+msgstr "Schliessen"
+
+#. Key:	QuitWarning_Generic_00
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,QuitWarning_Generic_00"
+msgid "Quitting may cause severe brain damage, alongside other things."
+msgstr "Verlassen des Spiels könnte zu schweren Hirnschäden sowie weiteren Komplikationen führen."
+
+#. Key:	QuitWarning_Generic_01
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,QuitWarning_Generic_01"
+msgid "Why would you want to leave? Is somebody hunting you down or something?"
+msgstr "Warum versuchst du zu gehen? Wirst du gerade gehetzt oder so?"
+
+#. Key:	QuitWarning_Host_00
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,QuitWarning_Host_00"
+msgid "You are hosting the server, if you quit everyone else will be disconnected."
+msgstr "Du bist der Serverhost, wenn du gehst, wird die Verbindung aller anderen auch getrennt."
+
+#. Key:	QuitWarning_InGame_00
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,QuitWarning_InGame_00"
+msgid "What's that? Rage-quitting? That's what cowards do."
+msgstr "Was, am Ragequitten? Was bisste, ein Feigling?"
+
+#. Key:	QuitWarning_InGame_01
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,QuitWarning_InGame_01"
+msgid "Everyone is going to miss you. Probably."
+msgstr "Alle werden dich vermissen. Möglicherweise."
+
+#. Key:	QuitWarning_Menu_00
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,QuitWarning_Menu_00"
+msgid "If you quit now you'd have to re-open the game (that could get complicated)."
+msgstr "Wenn du jetzt das Spiel verlässt, müsstest du es wieder öffnen (könnte noch recht kompliziert werden)."
+
+#. Key:	RefreshServerList
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,RefreshServerList"
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+#. Key:	ResumeGame
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,ResumeGame"
+msgid "Resume"
+msgstr "Fortsetzen"
+
+#. Key:	Screen
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,Screen"
+msgid "Screen"
+msgstr "Bildschirm"
+
+#. Key:	SearchGame
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,SearchGame"
+msgid "Search Game"
+msgstr "Nach Spiel suchen"
+
+#. Key:	SearchingGame
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,SearchingGame"
+msgid "Searching..."
+msgstr "Suche..."
+
+#. Key:	ServerBrowser_LookingForServers
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,ServerBrowser_LookingForServers"
+msgid "Looking for servers"
+msgstr "Suche nach Servern"
+
+#. Key:	ServerBrowser_Results
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,ServerBrowser_Results"
+msgid "Results"
+msgstr "Resultate"
+
+#. Key:	Servers
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,Servers"
+msgid "Servers"
+msgstr "Servers"
+
+#. Key:	Settings
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,Settings"
+msgid "Settings"
+msgstr "Einstellungen"
+
+#. Key:	Singleplayer
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,Singleplayer"
+msgid "Singleplayer"
+msgstr "Singleplayer"
+
+#. Key:	Start
+#. SourceLocation:	/Game/StringTables/ST_MenuUI.ST_MenuUI
+#: /Game/StringTables/ST_MenuUI.ST_MenuUI
+msgctxt "ST_MainMenu,Start"
+msgid "Start"
+msgstr "Start"
+
+#. Key:	AimDummy
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,AimDummy"
+msgid "Aim Dummy"
+msgstr "Trainingsziel"
+
+#. Key:	AmmoIsFull
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,AmmoIsFull"
+msgid "Ammo is full"
+msgstr "Munition ist voll"
+
+#. Key:	ChangeLoadoutPopup
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,ChangeLoadoutPopup"
+msgid "Press #@INPUT_LOADOUT# to change your Loadout"
+msgstr "Drücke #@INPUT_LOADOUT# num deine Ausrüstung zu ändern"
+
+#. Key:	ChangeLoadoutPopup_Spectator
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,ChangeLoadoutPopup_Spectator"
+msgid "Change your Loadout"
+msgstr "Ausrüstung ändern"
+
+#. Key:	ChargeMeter_Shields
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,ChargeMeter_Shields"
+msgid "Shields"
+msgstr "Schilder"
+
+#. Key:	ChargeMeter_StalwartFriend
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,ChargeMeter_StalwartFriend"
+msgid "My Stalwart Friend"
+msgstr "Mein Treuer Freund"
+
+#. Key:	ChargeMeter_Syringes
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,ChargeMeter_Syringes"
+msgid "Syringes"
+msgstr "Spritzen"
+
+#. Key:	Chat_CannotChangeTeams
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Chat_CannotChangeTeams"
+msgid "You are not allowed to change teams."
+msgstr "Du darfst das Team nicht wechseln."
+
+#. Key:	Chat_PleaseWaitBeforeSendingMessage
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Chat_PleaseWaitBeforeSendingMessage"
+msgid "Wait *s before sending another message!"
+msgstr "Warte *s bevor du nochmals eine Nachricht schickst!"
+
+#. Key:	Chat_WillRespawnWithNewLoadout
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Chat_WillRespawnWithNewLoadout"
+msgid "You will respawn with your new loadout."
+msgstr "Sie werden mit ihrer neuen Ausrüstung respawnen."
+
+#. Key:	ChatSayToAll
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,ChatSayToAll"
+msgid "Say to All"
+msgstr "An alle sagen"
+
+#. Key:	ChatSayToTeam
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,ChatSayToTeam"
+msgid "Say to Tea"
+msgstr "Am Team sagen"
+
+#. Key:	DestroyBuildingPopUp
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,DestroyBuildingPopUp"
+msgid "Press #@INPUT_DESTROYBUILDING# to destroy"
+msgstr "Drücke #@INPUT_DESTROYBUILDING# zum zerstören"
+
+#. Key:	GoBackToWeaponSelection
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,GoBackToWeaponSelection"
+msgid "Select Loadout"
+msgstr "Ausrüstung Festlegen"
+
+#. Key:	KilledBy
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,KilledBy"
+msgid "just killed you"
+msgstr "hat dich gerade getötet"
+
+#. Key:	KilledByUnknown
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,KilledByUnknown"
+msgid "due to unknown circumstances, how funny."
+msgstr "wegen unbekannten Umständen, höchst interessant."
+
+#. Key:	KilledYourself
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,KilledYourself"
+msgid "by killing yourself, how sad."
+msgstr "durch Selbstmord, wie schade."
+
+#. Key:	LeaderboardAssists
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,LeaderboardAssists"
+msgid "Assists"
+msgstr "Assists"
+
+#. Key:	LeaderboardDeaths
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,LeaderboardDeaths"
+msgid "Deaths"
+msgstr "Tode"
+
+#. Key:	LeaderboardKills
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,LeaderboardKills"
+msgid "Kills"
+msgstr "Kills"
+
+#. Key:	Loadout
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Loadout"
+msgid "Loadout"
+msgstr "Ausrüstung"
+
+#. Key:	Loadout_ChangeClass
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Loadout_ChangeClass"
+msgid "Change Class"
+msgstr "Klasse wechseln"
+
+#. Key:	Loadout_EmptySlot
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Loadout_EmptySlot"
+msgid "None"
+msgstr "Nichts"
+
+#. Key:	Loadout_SelectAClass
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Loadout_SelectAClass"
+msgid "Select Class"
+msgstr "Klasse auswählen"
+
+#. Key:	Loadout_SelectedWeaponLabel
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Loadout_SelectedWeaponLabel"
+msgid "Selected"
+msgstr "Ausgewählt"
+
+#. Key:	LoadoutClasses
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,LoadoutClasses"
+msgid "Classes"
+msgstr "Klassen"
+
+#. Key:	Name
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Name"
+msgid "Name"
+msgstr "Name"
+
+#. Key:	Objective
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Objective"
+msgid "Objective"
+msgstr "Ziel"
+
+#. Key:	OnPlayerLeft
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,OnPlayerLeft"
+msgid "left the server"
+msgstr "hat den Server verlassen"
+
+#. Key:	OnPlayerLogin
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,OnPlayerLogin"
+msgid "has joined the server"
+msgstr "hat den Server betreten"
+
+#. Key:	Overtime
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Overtime"
+msgid "Overtime"
+msgstr "Überzeit"
+
+#. Key:	PickYourSide
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,PickYourSide"
+msgid "Pick Your Side"
+msgstr "Wähle deine Seite"
+
+#. Key:	PlayerGameWon
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,PlayerGameWon"
+msgid "wins the game"
+msgstr "hat das Spiel gewonnen!"
+
+#. Key:	PlayerRoundWon
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,PlayerRoundWon"
+msgid "wins the round"
+msgstr "hat die Runde gewonnen!"
+
+#. Key:	PlayingTo
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,PlayingTo"
+msgid "Playing to"
+msgstr "Es wird gespielt bis"
+
+#. Key:	PrepareToRespawn
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,PrepareToRespawn"
+msgid "Prepare to respawn."
+msgstr "Bereite dich aufs Respawnen vor."
+
+#. Key:	RespawningIn
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,RespawningIn"
+msgid "Respawn in"
+msgstr "Respawn in"
+
+#. Key:	RoundEnd_GameOver
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,RoundEnd_GameOver"
+msgid "Travelling to next map shortly."
+msgstr "Mapwechsel beginnt gleich."
+
+#. Key:	RoundEnd_NextRoundWillBeginShortly
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,RoundEnd_NextRoundWillBeginShortly"
+msgid "Next round will begin shortly."
+msgstr "Die nächste Runde beginnt gleich."
+
+#. Key:	Score
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Score"
+msgid "Score"
+msgstr "Punkte"
+
+#. Key:	SelectWeapon
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,SelectWeapon"
+msgid "Select a Weapon"
+msgstr "Wähle eine Waffe"
+
+#. Key:	SetupTime
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,SetupTime"
+msgid "Setup"
+msgstr "Setup"
+
+#. Key:	Tooltip_Dev_Commentary_Full
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Tooltip_Dev_Commentary_Full"
+msgid "\"{nodeTitle}\" - {authorName}"
+msgstr ""
+
+#. Key:	Tooltip_Dev_Commentary_NoAuthor
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Tooltip_Dev_Commentary_NoAuthor"
+msgid "\"{nodeTitle}\""
+msgstr ""
+
+#. Key:	Tooltip_Dev_Commentary_NoTitle
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Tooltip_Dev_Commentary_NoTitle"
+msgid "By {authorName}"
+msgstr "Von {authorName}"
+
+#. Key:	Tooltip_Grab
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Tooltip_Grab"
+msgid "Grab"
+msgstr "Nehmen"
+
+#. Key:	Tooltip_Operate
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Tooltip_Operate"
+msgid "Operate"
+msgstr "Bedienen"
+
+#. Key:	Tooltip_Pickup
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Tooltip_Pickup"
+msgid "Pick-up"
+msgstr "Pick-up"
+
+#. Key:	Tooltip_Weapon_Ammo
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Tooltip_Weapon_Ammo"
+msgid "Ammo: {ammoLeft}"
+msgstr "Munition: {ammoLeft}"
+
+#. Key:	Tooltip_Weapon_DroppedBy
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Tooltip_Weapon_DroppedBy"
+msgid "Dropped by {ownerName}"
+msgstr "Weggeworfen von {ownerName}"
+
+#. Key:	Warning
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Warning"
+msgid "Warning"
+msgstr "Achtung"
+
+#. Key:	Warning_CannotPickupWeapon_Class
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Warning_CannotPickupWeapon_Class"
+msgid "Your class cannot pickup this weapon"
+msgstr "Deine Klasse kann diese Waffe nicht aufheben"
+
+#. Key:	Warning_CannotPickupWeapon_Faction
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,Warning_CannotPickupWeapon_Faction"
+msgid "Your faction cannot pickup this weapon"
+msgstr "Dein Team kann diese Waffe nicht aufheben"
+
+#. Key:	WeaponNotAllowedByServer
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,WeaponNotAllowedByServer"
+msgid "This weapon is not allowed"
+msgstr "Diese Waffe ist nicht erlaubt"
+
+#. Key:	WillRespawnNextRound
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,WillRespawnNextRound"
+msgid "You will respawn next round."
+msgstr "Sie werden nächste Runde respawnen."
+
+#. Key:	YouAreDead
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,YouAreDead"
+msgid "you died!"
+msgstr "du bist tot!"
+
+#. Key:	YouDroppedYourSupply
+#. SourceLocation:	/Game/StringTables/ST_PlayerUI.ST_PlayerUI
+#: /Game/StringTables/ST_PlayerUI.ST_PlayerUI
+msgctxt "PlayerUI,YouDroppedYourSupply"
+msgid "You dropped your supply"
+msgstr "Du hast dein Kit fallenlassen"
+
+#. Key:	Setting_AntiAliasing
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_AntiAliasing"
+msgid "Anti-Aliasing"
+msgstr "Anti-Aliasing"
+
+#. Key:	Setting_AntiAliasing_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_AntiAliasing_Tooltip"
+msgid "Regulates the quality of Anti-Aliasing."
+msgstr "Kontrolliert die Qualität von anti-aliasing."
+
+#. Key:	Setting_Apply
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Apply"
+msgid "Apply"
+msgstr "Übernehmen"
+
+#. Key:	Setting_Audio_Game
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Audio_Game"
+msgid "Game Volume"
+msgstr "Spiellautstarke"
+
+#. Key:	Setting_Audio_Music
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Audio_Music"
+msgid "Music Volume"
+msgstr "Musiklautstärke"
+
+#. Key:	Setting_AudioOutput
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_AudioOutput"
+msgid "Output Device"
+msgstr "Ausgangsgerät"
+
+#. Key:	Setting_AutoReload
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_AutoReload"
+msgid "Auto Reload"
+msgstr "Automatisches Nachladen"
+
+#. Key:	Setting_AutoReload_Always
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_AutoReload_Always"
+msgid "Always"
+msgstr "Immer"
+
+#. Key:	Setting_AutoReload_Off
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_AutoReload_Off"
+msgid "Off"
+msgstr "Aus"
+
+#. Key:	Setting_AutoReload_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_AutoReload_Tooltip"
+msgid "If set, your character will reload its weapon automatically if possible."
+msgstr "Falls eingeschaltet, wird dein Charakter deine Waffe bei Gelegenheit deine Waffe automatisch nachladen."
+
+#. Key:	Setting_AutoReload_WhenClipIsEmpty
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_AutoReload_WhenClipIsEmpty"
+msgid "Only on empty clip"
+msgstr "Nur wenn leer"
+
+#. Key:	Setting_Category_Audio
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_Audio"
+msgid "Audio"
+msgstr "Audio"
+
+#. Key:	Setting_Category_AudioDevices
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_AudioDevices"
+msgid "Audio Devices"
+msgstr "Audiogeräte"
+
+#. Key:	Setting_Category_Character
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_Character"
+msgid "Character"
+msgstr "Charakter"
+
+#. Key:	Setting_Category_CombatText
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_CombatText"
+msgid "Combat Text"
+msgstr "Kampftext"
+
+#. Key:	Setting_Category_Crosshair
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_Crosshair"
+msgid "Crosshair"
+msgstr "Crosshair"
+
+#. Key:	Setting_Category_Extra
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_Extra"
+msgid "Extra"
+msgstr "Extra"
+
+#. Key:	Setting_Category_Gameplay
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_Gameplay"
+msgid "Gameplay"
+msgstr "Gameplay"
+
+#. Key:	Setting_Category_General
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_General"
+msgid "General"
+msgstr "Allgemein"
+
+#. Key:	Setting_Category_Graphics
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_Graphics"
+msgid "Graphics"
+msgstr "Grafik"
+
+#. Key:	Setting_Category_Hud
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_Hud"
+msgid "HUD"
+msgstr "HUD"
+
+#. Key:	Setting_Category_Input
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_Input"
+msgid "Controls"
+msgstr "Eingabe"
+
+#. Key:	Setting_Category_Optimization
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_Optimization"
+msgid "Optimization"
+msgstr "Optimierung"
+
+#. Key:	Setting_Category_PlayerCheats
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_PlayerCheats"
+msgid "Player Cheats"
+msgstr "Cheats"
+
+#. Key:	Setting_Category_Screen
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_Screen"
+msgid "Screen"
+msgstr "Bildschirm"
+
+#. Key:	Setting_Category_Video
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_Video"
+msgid "Video"
+msgstr "Video"
+
+#. Key:	Setting_Category_Viewmodel
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_Viewmodel"
+msgid "Viewmodel"
+msgstr "Viewmodel"
+
+#. Key:	Setting_Category_Volume
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_Volume"
+msgid "Sound Volume"
+msgstr "Lautstärke"
+
+#. Key:	Setting_Category_Weapon
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Category_Weapon"
+msgid "Weapons"
+msgstr "Waffen"
+
+#. Key:	Setting_Cheat_GhostMode
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Cheat_GhostMode"
+msgid "Ghost Mode"
+msgstr "Geistermodus"
+
+#. Key:	Setting_Cheat_GhostMode_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Cheat_GhostMode_Tooltip"
+msgid "Fly through and around the map. Spooky."
+msgstr "Quer durch die Map fliegen. Wahrlich gruselig."
+
+#. Key:	Setting_Cheat_InfiniteAmmo
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Cheat_InfiniteAmmo"
+msgid "Infinite Ammo"
+msgstr "Unbegrenzte Munition"
+
+#. Key:	Setting_Cheat_InfiniteAmmo_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Cheat_InfiniteAmmo_Tooltip"
+msgid "Practice as much as you want without having to worry about reloading."
+msgstr "Übe soviel du willst ohne Nachladesorgen."
+
+#. Key:	Setting_Cheat_InfiniteHealth
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Cheat_InfiniteHealth"
+msgid "Infinite Health"
+msgstr "Unbegrenzte Trefferpunkte"
+
+#. Key:	Setting_Cheat_InfiniteHealth_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Cheat_InfiniteHealth_Tooltip"
+msgid "Nobody wanted to die anyways. Right?"
+msgstr "Wer will schon sterben?"
+
+#. Key:	Setting_Cheat_MenuTip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Cheat_MenuTip"
+msgid "You can customize cheats in-game via the settings menu"
+msgstr "Du kannst Cheats im in-game Menü unter 'Einstellungen' konfigurieren."
+
+#. Key:	Setting_Cheats
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Cheats"
+msgid "Cheats"
+msgstr "Cheats"
+
+#. Key:	Setting_CosmeticDropLimit
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_CosmeticDropLimit"
+msgid "Cosmetic Drops Limit"
+msgstr "Kosmetikprops-Droplimite"
+
+#. Key:	Setting_CosmeticDropLimit_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_CosmeticDropLimit_Tooltip"
+msgid "The max amount of dropped cosmetic objects (bullet casings, empty magazines etc.) visible at once."
+msgstr "Die Maximalmenge der gedroppten Kosmetikprops (Patronenhülsen, leere Magazine etc.) die gleichzeitig gesehen werden können."
+
+#. Key:	Setting_Crosshair_Alpha
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Crosshair_Alpha"
+msgid "Crosshair Opacity"
+msgstr "Crosshair-Transparenz"
+
+#. Key:	Setting_Crosshair_Color
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Crosshair_Color"
+msgid "Crosshair Color"
+msgstr "Crosshairfarbe"
+
+#. Key:	Setting_Crosshair_Scale
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Crosshair_Scale"
+msgid "Crosshair Scale"
+msgstr "Crosshair-Grösse"
+
+#. Key:	Setting_Crosshair_Type
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Crosshair_Type"
+msgid "Crosshair Type"
+msgstr "Crosshair-Typ"
+
+#. Key:	Setting_Crosshair_Type_Accurate
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Crosshair_Type_Accurate"
+msgid "Accurate"
+msgstr "Genau"
+
+#. Key:	Setting_Crosshair_Type_Dynamic
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Crosshair_Type_Dynamic"
+msgid "Dynamic"
+msgstr "Dynamisch"
+
+#. Key:	Setting_Crosshair_Type_None
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Crosshair_Type_None"
+msgid "None"
+msgstr "Keines"
+
+#. Key:	Setting_Crosshair_Type_Static
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Crosshair_Type_Static"
+msgid "Static"
+msgstr "Statisch"
+
+#. Key:	Setting_Crosshair_Type_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Crosshair_Type_Tooltip"
+msgid "Accurate:\r\nThe crosshair will be exactly where the bullet will hit with every shot no matter the recoil.\r\n\r\nStatic:\r\nA static and unchanging crosshair in the middle of the screen.\r\n\r\nDynamic:\r\nnf\r\n\r\nNone:\r\nBecause why would I want to know where I’m aiming?"
+msgstr "Genau:\nDas Crosshair wird jedesmal genau dort sein, wo die Kugel einschlagen wird.\n\nStatisch:\nEin statisches, unveränderndes Crosshair in der Mitte des Bildschirms.\n\nDynamisch:\n(Noch nicht implementiert) Ein statisches Crosshair in der Mitte des Bildschirms und ein sich dynamisch verändernder Kreis, welcher die Menge an Rückstoss, aber nicht die exakte Kugelposition visualisiert.\n\nKeines:\nWenn man's halt nicht nötig hat."
+
+#. Key:	Setting_CVar_Disabled
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_CVar_Disabled"
+msgid "Disabled"
+msgstr "Ausgeschaltet"
+
+#. Key:	Setting_CVar_Enabled
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_CVar_Enabled"
+msgid "Enabled"
+msgstr "Eingeschaltet"
+
+#. Key:	Setting_DamageNumbersColor
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_DamageNumbersColor"
+msgid "Damage Numbers Color"
+msgstr "Schadensnummernfarbe"
+
+#. Key:	Setting_DamageNumbersColor_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_DamageNumbersColor_Tooltip"
+msgid "The color of numbers shown over the targets you damage."
+msgstr "Die Farbe der Nummer, die über Spielern angezeigt wird, die du beschädigst."
+
+#. Key:	Setting_Disabled
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Disabled"
+msgid "Disabled"
+msgstr "Ausgeschaltet"
+
+#. Key:	Setting_DrawViewmodelArms
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_DrawViewmodelArms"
+msgid "Draw Viewmodel Arms"
+msgstr "Willst du diesen Knopf übersteuern?"
+
+#. Key:	Setting_DrawViewmodelArms_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_DrawViewmodelArms_Tooltip"
+msgid "Display the arms and weapon model of your character in first person."
+msgstr "Zeigt die Arme und das Waffenmodell des Charakters in der Egoperspektive."
+
+#. Key:	Setting_DrawViewmodelBody
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_DrawViewmodelBody"
+msgid "Draw Viewmodel Body"
+msgstr "Viewmodel-Arme Zeigen"
+
+#. Key:	Setting_DrawViewmodelBody_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_DrawViewmodelBody_Tooltip"
+msgid "Display the rest of the body of your character (torso, legs, shadow etc.) in first person."
+msgstr "Zeigt den Rest des Körpers des Charakters (Torso, Beine, Schatten, etc) in der Egoperspektive."
+
+#. Key:	Setting_Effects
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Effects"
+msgid "Effects"
+msgstr "Viewmodel-Körper Zeigen"
+
+#. Key:	Setting_Effects_Tooltips
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Effects_Tooltips"
+msgid "Regulates the quality of effects."
+msgstr "Kontrolliert die Qualität von Effekten."
+
+#. Key:	Setting_Enabled
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Enabled"
+msgid "Enabled"
+msgstr "Eingeschaltet"
+
+#. Key:	Setting_EnableRagdolls_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_EnableRagdolls_Tooltip"
+msgid "Characters leave a corpse (or what's left of it) behind when they die. Turning this off makes them disappear instead."
+msgstr "Charakter hinterlassen eine Leiche (oder was von ihr noch übrig ist) wenn sie sterben. Wenn dies ausgeschaltet ist, verschwindet die stattdessen."
+
+#. Key:	Setting_FlipViewmodel
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_FlipViewmodel"
+msgid "Left-handed Viewmodel"
+msgstr "Linkshänder-Viewmodel"
+
+#. Key:	Setting_FlipViewmodel_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_FlipViewmodel_Tooltip"
+msgid "Display the viewmodel as left-handed.\r\nChanges will take effect on respawn."
+msgstr "Das Viewmodel im Linkshändermodus zeigen."
+
+#. Key:	Setting_Fullscreen
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Fullscreen"
+msgid "Fullscreen"
+msgstr "Fullscreen"
+
+#. Key:	Setting_Input_ChangeTeam
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_ChangeTeam"
+msgid "Change Team"
+msgstr "Team wechseln"
+
+#. Key:	Setting_Input_Interact
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Interact"
+msgid "Interact"
+msgstr "Interagieren"
+
+#. Key:	Setting_Input_Killbind
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Killbind"
+msgid "Kill (Yourself)"
+msgstr "(Dich selbst) Umbringen"
+
+#. Key:	Setting_Input_Killbind_Explode
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Killbind_Explode"
+msgid "Explode (Yourself)"
+msgstr "(Dich Selbst) Sprengen"
+
+#. Key:	Setting_Input_Loadout
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Loadout"
+msgid "Loadout Menu"
+msgstr "Ausrüstungsmenü"
+
+#. Key:	Setting_Input_MouseSensitivity
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_MouseSensitivity"
+msgid "Mouse Sensitivity"
+msgstr "Mausempfindlichkeit"
+
+#. Key:	Setting_Input_Move_Back
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Move_Back"
+msgid "Move Backwards"
+msgstr "Rückwärts Gehen"
+
+#. Key:	Setting_Input_Move_Crouch
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Move_Crouch"
+msgid "Crouch"
+msgstr "Ducken"
+
+#. Key:	Setting_Input_Move_Forward
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Move_Forward"
+msgid "Move Forward"
+msgstr "Vorwärts Gehen"
+
+#. Key:	Setting_Input_Move_Jump
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Move_Jump"
+msgid "Jump"
+msgstr "Springen"
+
+#. Key:	Setting_Input_Move_Left
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Move_Left"
+msgid "Move Left"
+msgstr "Links Gehen"
+
+#. Key:	Setting_Input_Move_Right
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Move_Right"
+msgid "Move Right"
+msgstr "Rechts Gehen"
+
+#. Key:	Setting_Input_OpenChat_Public
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_OpenChat_Public"
+msgid "Open Public Chat"
+msgstr "Öffentlichen Chat Öffnen"
+
+#. Key:	Setting_Input_OpenChat_Team
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_OpenChat_Team"
+msgid "Open Team Chat"
+msgstr "Team-Chat Öffnen"
+
+#. Key:	Setting_Input_Pause
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Pause"
+msgid "Pause Game / Exit Current Menu"
+msgstr "Spiel Pausieren / Menü Verlassen"
+
+#. Key:	Setting_Input_Scoreboard
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Scoreboard"
+msgid "Scoreboard"
+msgstr "Scoreboard"
+
+#. Key:	Setting_Input_Weapon_Ability
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_Ability"
+msgid "Ability"
+msgstr "Fähigkeit"
+
+#. Key:	Setting_Input_Weapon_DestroyBuilding
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_DestroyBuilding"
+msgid "Destroy Building"
+msgstr "Gebäude zerstören"
+
+#. Key:	Setting_Input_Weapon_DropWeapon
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_DropWeapon"
+msgid "Drop Weapon"
+msgstr "Waffe fallenlassen"
+
+#. Key:	Setting_Input_Weapon_Inspect
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_Inspect"
+msgid "Inspect"
+msgstr "Inspizieren"
+
+#. Key:	Setting_Input_Weapon_PrimaryAttack
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_PrimaryAttack"
+msgid "Primary Attack"
+msgstr "Primärattacke"
+
+#. Key:	Setting_Input_Weapon_Reload
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_Reload"
+msgid "Reload"
+msgstr "Nachladen"
+
+#. Key:	Setting_Input_Weapon_SecondaryAttack
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_SecondaryAttack"
+msgid "Secondary Attack"
+msgstr "Sekundärattacke"
+
+#. Key:	Setting_Input_Weapon_Slot_01
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_Slot_01"
+msgid "Weapon Slot 1"
+msgstr "Waffenslot 1"
+
+#. Key:	Setting_Input_Weapon_Slot_02
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_Slot_02"
+msgid "Weapon Slot 2"
+msgstr "Waffenslot 2"
+
+#. Key:	Setting_Input_Weapon_Slot_03
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_Slot_03"
+msgid "Weapon Slot 3"
+msgstr "Waffenslot 3"
+
+#. Key:	Setting_Input_Weapon_Slot_04
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_Slot_04"
+msgid "Weapon Slot 4"
+msgstr "Waffenslot 4"
+
+#. Key:	Setting_Input_Weapon_Slot_05
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_Slot_05"
+msgid "Weapon Slot 5"
+msgstr "Waffenslot 5"
+
+#. Key:	Setting_Input_Weapon_Slot_06
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_Slot_06"
+msgid "Weapon Slot 6"
+msgstr "Waffenslot 6"
+
+#. Key:	Setting_Input_Weapon_Slot_07
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_Slot_07"
+msgid "Weapon Slot 7"
+msgstr "Waffenslot 7"
+
+#. Key:	Setting_Input_Weapon_Slot_08
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_Slot_08"
+msgid "Weapon Slot 8"
+msgstr "Waffenslot 8"
+
+#. Key:	Setting_Input_Weapon_Slot_09
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_Slot_09"
+msgid "Weapon Slot 9"
+msgstr "Waffenslot 9"
+
+#. Key:	Setting_Input_Weapon_SwitchToMelee
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Input_Weapon_SwitchToMelee"
+msgid "Switch to Melee"
+msgstr "Nahkampfwaffe ausrüsten"
+
+#. Key:	Setting_Keybind_Clear
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Keybind_Clear"
+msgid "Clear"
+msgstr "Löschen"
+
+#. Key:	Setting_Keybind_Conflict
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Keybind_Conflict"
+msgid "Do you want to override this key?"
+msgstr "Änderungen werden nach Respawn angewendet."
+
+#. Key:	Setting_KeyBind_RemapFail_Conflict
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_KeyBind_RemapFail_Conflict"
+msgid "is already bound to"
+msgstr "wird bereits verwendet für"
+
+#. Key:	Setting_Keybind_RemapFail_ControllerOnly
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Keybind_RemapFail_ControllerOnly"
+msgid "That slot is reserved for controller input."
+msgstr "Dieser Slot ist für Controllerinput reserviert."
+
+#. Key:	Setting_Keybind_RemapFail_KbmOnly
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Keybind_RemapFail_KbmOnly"
+msgid "That slot is reserved for keyboard/mouse input."
+msgstr "Dieser Slot ist für Tastatur- / Mausinput reserviert."
+
+#. Key:	Setting_Keybind_ResetToDefault
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Keybind_ResetToDefault"
+msgid "Reset to default"
+msgstr "Zurücksetzen"
+
+#. Key:	Setting_KeyNotBound
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_KeyNotBound"
+msgid "Not Bound"
+msgstr "Nicht Gesetzt"
+
+#. Key:	Setting_Killbind_Explode_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Killbind_Explode_Tooltip"
+msgid "What do you mean with \"glue you back together\"?"
+msgstr "Was zum Teufel meinst du mit \"Wenn ich nicht so'n Kerl wär\"?"
+
+#. Key:	Setting_Killbind_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Killbind_Tooltip"
+msgid "For those who can't handle it anymore."
+msgstr "Für die, die's einfach nicht mehr tun können."
+
+#. Key:	Setting_Language
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Language"
+msgid "Language"
+msgstr "Sprache"
+
+#. Key:	Setting_LanguageText
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_LanguageText"
+msgid "Game Language"
+msgstr "Spielsprache"
+
+#. Key:	Setting_Off
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Off"
+msgid "Off"
+msgstr "Aus"
+
+#. Key:	Setting_On
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_On"
+msgid "On"
+msgstr "An"
+
+#. Key:	Setting_PlayerDecalLimit
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_PlayerDecalLimit"
+msgid "Player Decal Limit"
+msgstr "Decallimit"
+
+#. Key:	Setting_PlayerDecalLimit_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_PlayerDecalLimit_Tooltip"
+msgid "The max amount of player-generated decals (bullet holes, explosion scorches etc.) visible at once."
+msgstr "Die Maximalmenge der spielererstellten Decals (Schusslöcher, Explosionsruss, etc.) die gleichzeitig gesehen werden können."
+
+#. Key:	Setting_PostProcessing
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_PostProcessing"
+msgid "Post-Processing"
+msgstr "Post-Processing"
+
+#. Key:	Setting_PostProcessing_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_PostProcessing_Tooltip"
+msgid "Regulates the quality of Post-Processing effects."
+msgstr "Kontrolliert die Qualität von Post-Processing Effekten."
+
+#. Key:	Setting_Ragdolls
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Ragdolls"
+msgid "Enable Ragdolls"
+msgstr "Ragdolls Erlauben"
+
+#. Key:	Setting_Reflections
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Reflections"
+msgid "Reflections"
+msgstr "Reflektionen"
+
+#. Key:	Setting_Reflections_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Reflections_Tooltip"
+msgid "Regulates the quality of reflections."
+msgstr "Kontrolliert die Qualität von Reflektionen."
+
+#. Key:	Setting_Resolution
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Resolution"
+msgid "Resolution"
+msgstr "Auflösung"
+
+#. Key:	Setting_ResolutionScale
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_ResolutionScale"
+msgid "Resolution Scale"
+msgstr "Auflösung"
+
+#. Key:	Setting_ResolutionScale_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_ResolutionScale_Tooltip"
+msgid "Regulates the resolution at which the game is rendered.\r\nHUD elements always render at full scale."
+msgstr "Kontrolliert die Auflösung des Spiels. HUD-Elemente werden immer mit voller Auflösung gerendert."
+
+#. Key:	Setting_Revert_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Revert_Tooltip"
+msgid "Revert changes"
+msgstr "Änderungen verwerfen"
+
+#. Key:	Setting_Scalability_Custom
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Scalability_Custom"
+msgid "<Custom>"
+msgstr "<Benutzerdefiniert>"
+
+#. Key:	Setting_Scalability_High
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Scalability_High"
+msgid "High"
+msgstr "Hoch"
+
+#. Key:	Setting_Scalability_Low
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Scalability_Low"
+msgid "Low"
+msgstr "Tief"
+
+#. Key:	Setting_Scalability_Medium
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Scalability_Medium"
+msgid "Medium"
+msgstr "Mittel"
+
+#. Key:	Setting_Scalability_Preset
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Scalability_Preset"
+msgid "Quality Preset"
+msgstr "Qualitäts-Preset"
+
+#. Key:	Setting_Scalability_Preset_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Scalability_Preset_Tooltip"
+msgid "Set all graphic settings to the same quality level."
+msgstr "Setzt alle Grafikeinstellungen auf dieselbe Qualitätsstufe."
+
+#. Key:	Setting_Scalability_Ultra
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Scalability_Ultra"
+msgid "Ultra"
+msgstr "Ultra"
+
+#. Key:	Setting_Search_Clear
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Search_Clear"
+msgid "Clear search"
+msgstr "Suche löschen"
+
+#. Key:	Setting_Search_Hint
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Search_Hint"
+msgid "Search settings..."
+msgstr "Einstellungen durchsuchen"
+
+#. Key:	Setting_Search_NoResults
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Search_NoResults"
+msgid "No Results. Too bad."
+msgstr "Keine Resultate. Tja."
+
+#. Key:	Setting_Server_AllowAutoScramble
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Server_AllowAutoScramble"
+msgid "Automatic Team Scramble"
+msgstr "Automatisches Team-Shuffling"
+
+#. Key:	Setting_Server_AllowAutoScramble_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Server_AllowAutoScramble_Tooltip"
+msgid "Allow the game to automatically scramble teams when they are considered unbalanced."
+msgstr "Erlaubt es dem Spiel automatisch einen Team-Shuffle einzuleiten wenn die Teams als unfair eingestuft wurden."
+
+#. Key:	Setting_Server_AllowPlayersToChangeTeams
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Server_AllowPlayersToChangeTeams"
+msgid "Change Teams"
+msgstr "Teamwechsel"
+
+#. Key:	Setting_Server_AllowPlayersToChangeTeams_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Server_AllowPlayersToChangeTeams_Tooltip"
+msgid "Allow players to change their team by opening the Team Selection menu."
+msgstr "Erlaubt es Spielern, ihr Team via das Teamauswahlsmenü zu wechseln."
+
+#. Key:	Setting_Server_AllowPlayersToJoinUnbalancedTeams
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Server_AllowPlayersToJoinUnbalancedTeams"
+msgid "Join Unbalanced Teams"
+msgstr "Unfaire Teams erlauben"
+
+#. Key:	Setting_Server_AllowPlayersToJoinUnbalancedTeams_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Server_AllowPlayersToJoinUnbalancedTeams_Tooltip"
+msgid "Allow players to join whatever team they want without any balance restrictions."
+msgstr "Erlaubt es Spielern jedem Team beizutreten, egal ob Autobalance dies als fair bezeichnen würde."
+
+#. Key:	Setting_Server_AllowVoteScramble
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Server_AllowVoteScramble"
+msgid "Vote Scramble"
+msgstr "Mischabstimmung"
+
+#. Key:	Setting_Server_AllowVoteScramble_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Server_AllowVoteScramble_Tooltip"
+msgid "Allow players to manually vote for a team scramble during the game."
+msgstr "Erlaubt es Spielern während des Spiels manuell über einen Team-Shuffle abzustimmen."
+
+#. Key:	Setting_Server_AutoAssignTeamsOnJoin
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Server_AutoAssignTeamsOnJoin"
+msgid "Auto Assign Teams On Join"
+msgstr "Teams automatisch zuweisen"
+
+#. Key:	Setting_Server_AutoAssignTeamsOnJoin_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Server_AutoAssignTeamsOnJoin_Tooltip"
+msgid "If enabled, players will be assigned to a team chosen by the game when they first connect. If disabled, the Team Selection menu will be loaded instead."
+msgstr "Falls eingeschaltet, werden Spielmitglieder einem Team automatisch zugewiesen. Falls nicht, können Spieler selbst ein Team auswählen."
+
+#. Key:	Setting_Shadows
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Shadows"
+msgid "Shadows"
+msgstr "Schatten"
+
+#. Key:	Setting_Shadows_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Shadows_Tooltip"
+msgid "Regulates the quality of shadows."
+msgstr "Kontrolliert die Schattenqualität."
+
+#. Key:	Setting_ShowFps
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_ShowFps"
+msgid "Show FPS"
+msgstr "FPS Anzeigen"
+
+#. Key:	Setting_ShowViewmodelTracers
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_ShowViewmodelTracers"
+msgid "Show Viewmodel Tracers"
+msgstr "Viewmodel-Leuchtspuren Anzeigen"
+
+#. Key:	Setting_ShowViewmodelTracers_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_ShowViewmodelTracers_Tooltip"
+msgid "Display the tracers of the bullets fired from your gun in first person."
+msgstr "Zeigt die Leuchtspur von Schüssen deiner Waffe in der Egoperspektive."
+
+#. Key:	Setting_Textures
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Textures"
+msgid "Textures"
+msgstr "Texturen"
+
+#. Key:	Setting_Textures_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Textures_Tooltip"
+msgid "Regulates the quality of textures."
+msgstr "Kontrolliert die Texturenqualität."
+
+#. Key:	Setting_ToggleCrouch
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_ToggleCrouch"
+msgid "Toggle Crouch"
+msgstr "Wechselknopf für ducken"
+
+#. Key:	Setting_ToggleCrouch_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_ToggleCrouch_Tooltip"
+msgid "Make crouching toggleable instead of hold and release."
+msgstr "Duck-Knopf muss nur vorübergehend gedrückt werden um geduckt zu bleiben."
+
+#. Key:	Setting_ToggleSwitchToMelee
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_ToggleSwitchToMelee"
+msgid "Toggle Switch to Melee"
+msgstr "Wechselknopf für \"Nahkampfwaffe ausrüsten\""
+
+#. Key:	Setting_ToggleSwitchToMelee_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_ToggleSwitchToMelee_Tooltip"
+msgid "Make switching to your melee weapon toggleable instead of hold and release."
+msgstr "Der Nahkampfwaffen-Knopf muss nur vorübergehend gedrückt werden um auf der Nahkampfwaffe zu bleiben."
+
+#. Key:	Setting_ViewDistanceScale
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_ViewDistanceScale"
+msgid "View Distance Scale"
+msgstr "Sichtweiten-Skalierung"
+
+#. Key:	Setting_ViewDistanceScale_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_ViewDistanceScale_Tooltip"
+msgid "Regulates the distance at which distant objects stop being rendered."
+msgstr "Kontrolliert wie weit Objekte weg sein müssen um nicht mehr gerendert zu werden."
+
+#. Key:	Setting_ViewmodelFov
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_ViewmodelFov"
+msgid "Viewmodel FoV"
+msgstr "Viewmodel FoV"
+
+#. Key:	Setting_ViewmodelFov_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_ViewmodelFov_Tooltip"
+msgid "The field of view of the arms and weapon models seen in first person."
+msgstr "Die Sichtfeldsbreite der Arme sowie des Waffenmodells in der Egoperspektive."
+
+#. Key:	Setting_VSync
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_VSync"
+msgid "VSync"
+msgstr "VSync"
+
+#. Key:	Setting_Windowed
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_Windowed"
+msgid "Windowed"
+msgstr "Fenstermodus"
+
+#. Key:	Setting_WindowedFullscreen
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Setting_WindowedFullscreen"
+msgid "Windowed Fullscreen"
+msgstr "Fenstermodus (Fullscreen)"
+
+#. Key:	Settings_HealingNumbersColor
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Settings_HealingNumbersColor"
+msgid "Healing Numbers Color"
+msgstr "Farbe für Heilnummern"
+
+#. Key:	Settings_HealingNumbersColor_Tooltip
+#. SourceLocation:	/Game/StringTables/ST_Settings.ST_Settings
+#: /Game/StringTables/ST_Settings.ST_Settings
+msgctxt "ST_Settings,Settings_HealingNumbersColor_Tooltip"
+msgid "The color of numbers shown over the targets you heal."
+msgstr "Die Farbe der Nummer, die über Spielern angezeigt wird, die du heilst."
+
+#. Key:	Tip_Bullseye
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Bullseye"
+msgid "Wanna train your aim? Try \"Tr_Bullseye\" for a challenge!"
+msgstr "Noch nicht treffsicher? Geh' 'ne Runde trainieren auf \"Tr_Bullseye\"!"
+
+#. Key:	Tip_CannotPickup
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_CannotPickup"
+msgid "Some weapons are incompatible with the class or character you play. Check the weapons available in your class loadout to see which guns are compatible!"
+msgstr "Gewisse Waffen sind inkompatibel mit der Klasse oder dem Charakter den du spielst. Überprüfe die kompatiblen Waffen in der Ausrüstung!"
+
+#. Key:	Tip_ChangeTeam
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_ChangeTeam"
+msgid "Change your team by pressing \"#@INPUT_CHANGETEAM#\"."
+msgstr "Öffne die Teamauswahl indem du \"#@INPUT_CHANGETEAM#\" drückst."
+
+#. Key:	Tip_Coalition_Stock_AmmoSwap
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Coalition_Stock_AmmoSwap"
+msgid "The Stock has different ammo types! Press \"#@INPUT_SECONDARYATTACK#\" to swap between them - light ammo for close quarters and heavy for mid-to-long range firefights."
+msgstr "Die Lagerflinte hat mehrere Munitionstypen! Drücke \"#@INPUT_SECONDARYATTACK#\" um Munitionstyp zu wechseln - Kleinkaliber für nah, Hochkaliber für fern."
+
+#. Key:	Tip_Coalition_Syringe_SelfInject
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Coalition_Syringe_SelfInject"
+msgid "You can inject syringes into yourself at double the cost - press \"#@INPUT_ABILITY#\" whilst having them out to try that - or, if you can, just ask another medic to help you out."
+msgstr "Du kannst dir selbst Spritzen zum doppelten Preis verabreichen - drücke schlicht \"#@INPUT_ABILITY#\" während du sie draussen hast um das zu tun - oder frag' einfach einen verbündeten Arzt um einen kleinen Shot!"
+
+#. Key:	Tip_Coalition_Syringe_Throw
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Coalition_Syringe_Throw"
+msgid "You can throw syringes! Try pressing \"#@INPUT_SECONDARYATTACK#\" to heal or hurt people at a distance!"
+msgstr "Spritzen können geworfen werden! Drück' \"#@INPUT_SECONDARYATTACK#\" um andere auf Distanz zu heilen oder töten!"
+
+#. Key:	Tip_Countering_Nancoids
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Countering_Nancoids"
+msgid "The Nancoid faction is designed around specialized attacker types. Support keeps open areas off-limits, Stormtroopers clear obstacles and barricades, officers pick off targets of opportunity. Target one of these and take advantage once you've got an opening."
+msgstr ""
+
+#. Key:	Tip_Countersniping
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Countersniping"
+msgid "Weapons like the LMG use firepower as both their sword and shield. If you can pull it off without dying yourself, accurate return fire with the right type of gun can end that fight quite quickly."
+msgstr ""
+
+#. Key:	Tip_CriticalHits
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_CriticalHits"
+msgid "Some weapons, like the Varga on headshot, deal critical hits. Critical hits are simple: They just double the damage!"
+msgstr "Gewisse Waffen, wie zum Beispiel der Varga bei einem Headshot, verursachen einen kritischen Treffer. Kritische Treffer sind simpel: Sie verursachen schlicht doppelten Schaden!"
+
+#. Key:	Tip_CrouchAim
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_CrouchAim"
+msgid "Crouching does absolutely nothing to improve your aim!"
+msgstr "Ducken hat absolut keinen Einfluss auf deine Zielsicherheit."
+
+#. Key:	Tip_DamageFalloff
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_DamageFalloff"
+msgid "Weapons usually deal more damage the closer you are to the target, though some exceptions exist. Be sure to take a look at your weapon's stats to see if any special rules apply!"
+msgstr "Waffen werden normalerweise effektiver je näher man dem Gegner kommt - aber es gibt einige Ausnahmen! Überprüfe in den Stats deiner Waffe, ob es irgendwelche Sonderregeln gibt!"
+
+#. Key:	Tip_Deathmatch
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Deathmatch"
+msgid "In Deathmatch, it’s everybody against everybody. Avoid open areas and chokepoints, and always be on your guard."
+msgstr "Bei Deathmatch gilt jeder Mann fur sich selbst. Vermeide offene Bereiche und lass dich nie in Sicherheit wiegen."
+
+#. Key:	Tip_EnemyWeapons
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_EnemyWeapons"
+msgid "You cannot pick up enemy guns. If you try to pick them up, they will be converted to a medium ammo pack instead."
+msgstr ""
+
+#. Key:	Tip_Frontilne
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Frontilne"
+msgid "In Frontline, the fight goes sector-by-sector. Split your team between pushing the enemy off the control points and guarding the ones you already have."
+msgstr "Bei Frontline wird Sektor um Sektor gekämpft. Teile dein Team zwischen dem Angriff auf feindliche und der Verteidigung bereits übernommener Kontrollpunkte."
+
+#. Key:	Tip_GettingRolled
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_GettingRolled"
+msgid "If you’re getting rolled, your only saving grace might be you becoming the change you want to see in the team."
+msgstr "Falls du momentan gerade vernichtet wirst, könnte die einzige Lösung sein, die notwendige Änderungen im Team selbst zu machen."
+
+#. Key:	Tip_Grenades
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Grenades"
+msgid "All grenades feature a red light that blinks faster the closer they are to detonation. If the light is solid, they will explode on impact."
+msgstr "Alle Granaten haben ein rotes Licht, welches schneller blinkt, je näher es der Detonation ist. Wenn das Licht leuchtet statt blinkt, explodiert die Granate bei Kontakt."
+
+#. Key:	Tip_Hydrate
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Hydrate"
+msgid "Remember to hydrate!"
+msgstr "Dran' denken: Genügend Wasser trinken!"
+
+#. Key:	Tip_HydrationBreak
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_HydrationBreak"
+msgid "Hydration break soon?"
+msgstr "Heute schon genug getrunken?"
+
+#. Key:	Tip_Koth
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Koth"
+msgid "In King of the Hill, there is only one control point. Take it and then keep the enemy as far away as possible. Spawn-camp them if needed."
+msgstr "In King of the Hill gibt's nur einen Kontrollpunkt. Übernimm den Kontrollpunkt und dränge den Feind soweit weg davon wie möglich, spawn-camp sie falls nötig."
+
+#. Key:	Tip_LoadoutKey
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_LoadoutKey"
+msgid "Change your loadout by pressing \"#@INPUT_LOADOUT#\"."
+msgstr "Ändere deine Ausrüstung, indem du \"#@INPUT_LOADOUT#\" drückst."
+
+#. Key:	Tip_Medkit
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Medkit"
+msgid "Tough fight ahead? Grab a medkit - if it heals you to more than full health, you can be temporarily overhealed up to 200% of your base health."
+msgstr "Schwere Schlacht voraus? Nimm dir ein Medkit - es kann dich bis zu 200% deiner Grundtrefferpunkte heilen!"
+
+#. Key:	Tip_MindAmmo
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_MindAmmo"
+msgid "Mind the ammo economy! Some weapons don’t have the bullet reserve to just shoot around mindlessly."
+msgstr "Behalte deinen Munitionsbeutel im Kopf! Manche Waffen haben schlicht nicht die Reserven um hirnlos rumzuballern."
+
+#. Key:	Tip_MoveForward
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_MoveForward"
+msgid "Press \"#@INPUT_MOVE_FORWARD#\" to move forward."
+msgstr "Drücke \"#@INPUT_MOVE_FORWARD#\" um dich vorwärts zu bewegen."
+
+#. Key:	Tip_Nancoids_BewareVarga
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Nancoids_BewareVarga"
+msgid "Beware of snipers! In the right hands, the Varga can deal devastating damage, so mind your positioning."
+msgstr "Hüte doch vor Scharfschützen! In den Händen eines Profis kann der Varga vernichtenden Schaden anrichten - also pass auf, wohin du trittst."
+
+#. Key:	Tip_Nancoids_BrassTack
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Nancoids_BrassTack"
+msgid "The Brass Tack deals devastating damage at mid-to-close range, but has quite some recoil. Unless you’re very close, try firing in 5-round bursts for optimal ammo efficiency!"
+msgstr "Die Messingdusche kann verheerenden Schaden in Gefechten kurzer bis mittlerer Distanz verursachen, hat aber wesentlichen Rückstoss. Es sei denn du bist nahe, ist der Kampf mit 5-Schuss-Salven empfohlen."
+
+#. Key:	Tip_Nancoids_FlamerNearby
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Nancoids_FlamerNearby"
+msgid "Be very careful around smoke grenades - it usually means there is a flamer nearby."
+msgstr "Vorsicht um Rauchgranaten - der Besitzer könnte sich in dessen Nähe befinden."
+
+#. Key:	Tip_Nancoids_LMG
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Nancoids_LMG"
+msgid "The LMG deals extra damage to targets that are far away - use this to your advantage if the enemy is holding in an open area!"
+msgstr "Das LMG ist effektiver gegen ferne Ziele - benütz' dies zu deinem Vorteil falls sich der Feind in einem offenen Bereich aufhält."
+
+#. Key:	Tip_Nancoids_LMG_Recoil
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Nancoids_LMG_Recoil"
+msgid "The LMG stops having recoil if you fire it for long enough. If you’ve got the ammo to spare, you can deal devastating damage across the map."
+msgstr "Nach längerem Feuern hat das LMG keinen Rückstoss mehr. Falls der Munitionsbeutel zusagt, kann somit vernichtender Schaden von der anderen Seite der Map angerichtet werden."
+
+#. Key:	Tip_Nancoids_SmokeBombs
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Nancoids_SmokeBombs"
+msgid "If the Coalition deploys their characteristic smoke grenades and you have the ammo to spare, try firing wildly into the smoke! With enough firepower, you can deny a smoke entirely."
+msgstr "Wenn die Koalition ihre klassische Rauchgranaten wirft und du Munition übrig hast, schiess in den Rauch bis du 'was triffst! Mit genügend Feuerkraft kannst du den Feind vergraulen."
+
+#. Key:	Tip_Posture
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Posture"
+msgid "Posture check."
+msgstr "Posture-check."
+
+#. Key:	Tip_PublicChat
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_PublicChat"
+msgid "Open public-chat by pressing \"#@INPUT_CHAT_PUBLIC#\"."
+msgstr "Drücke \"#@INPUT_CHAT_PUBLIC#\" um den öffentlichen Chat zu öffnen."
+
+#. Key:	TIp_Scoreboard
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,TIp_Scoreboard"
+msgid "View the scoreboard by pressing \"#@INPUT_SCOREBOARD#\"."
+msgstr "Drück' \"#@INPUT_SCOREBOARD#\" um dir das Scoreboard anzuschauen."
+
+#. Key:	Tip_SitWell
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_SitWell"
+msgid "Remember to sit upright. Your back thanks you."
+msgstr "Denk' 'dran: Gerade sitzen. Der Rücken dankt."
+
+#. Key:	Tip_Syringes
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_Syringes"
+msgid "Syringes have zero addictive properties!"
+msgstr "Das Suchtpotenzial von Spritzen ist bedenkenlos."
+
+#. Key:	Tip_TakeABreak
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_TakeABreak"
+msgid "Take breaks."
+msgstr "Vergiss nicht, Pausen einzulegen."
+
+#. Key:	Tip_TeamChat
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_TeamChat"
+msgid "Open team-chat by pressing \"#@INPUT_CHAT_TEAM#\"."
+msgstr "Drücke \"#@INPUT_CHAT_TEAM#\" um den Team-Chat zu öffnen."
+
+#. Key:	Tip_WeaponActions
+#. SourceLocation:	/Game/StringTables/ST_Tips.ST_Tips
+#: /Game/StringTables/ST_Tips.ST_Tips
+msgctxt "ST_Tips,Tip_WeaponActions"
+msgid "Most weapons have a primary, secondary and special attack! Try pressing \"#@INPUT_PRIMARYATTACK#\", \"#@INPUT_SECONDARYATTACK#\" and \"#@INPUT_ABILITY#\" to see what happens!"
+msgstr "Die meisten Waffen haben eine Primär-, Sekundär- und Spezialattacke! Drück' mal \"#@INPUT_PRIMARYATTACK#\", \"#@INPUT_SECONDARYATTACK#\" und \"#@INPUT_ABILITY#\" und find' 'raus was passiert!"
+
+#. Key:	OnWeaponDrop_Failed							
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Failed\t\t\t\t\t\t\t"
+msgid "You can't drop this weapon"
+msgstr "Du kannst diese Waffe nicht wegwerfen"
+
+#. Key:	OnWeaponDrop_Failed_Dagger					
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Failed_Dagger\t\t\t\t\t"
+msgid "You can't drop your Dagger"
+msgstr "Du kannst deinen Dolch nicht wegwerfen"
+
+#. Key:	OnWeaponDrop_Failed_Fists						
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Failed_Fists\t\t\t\t\t\t"
+msgid "Your arms cannot be detached"
+msgstr "Du kannst deine Arme nicht wegwerfen"
+
+#. Key:	OnWeaponDrop_Successful						
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Successful\t\t\t\t\t\t"
+msgid "You dropped your weapon"
+msgstr "Du hast deine Waffe weggeworfen"
+
+#. Key:	OnWeaponDrop_Successful_BacklineSlugger		
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Successful_BacklineSlugger\t\t"
+msgid "You dropped your Backline Slugger"
+msgstr "Du hast deine Faulenzerknarre weggeworfen"
+
+#. Key:	OnWeaponDrop_Successful_BrassTack				
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Successful_BrassTack\t\t\t\t"
+msgid "You dropped your Brass Tack"
+msgstr "Du hast deine Messingdusche weggeworfen"
+
+#. Key:	OnWeaponDrop_Successful_BuckPistol			
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Successful_BuckPistol\t\t\t"
+msgid "You dropped your Buck Pistol"
+msgstr "Du hast deine Streuschusspistole weggeworfen"
+
+#. Key:	OnWeaponDrop_Successful_Flamer				
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Successful_Flamer\t\t\t\t"
+msgid "You dropped your Flamer"
+msgstr "Du hast deinen Flammenwerfer weggeworfen"
+
+#. Key:	OnWeaponDrop_Successful_GoldenStandard		
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Successful_GoldenStandard\t\t"
+msgid "You dropped your Golden Standard"
+msgstr "Du hast dein Bannergold weggeworfen"
+
+#. Key:	OnWeaponDrop_Successful_GrenadeLauncher		
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Successful_GrenadeLauncher\t\t"
+msgid "You dropped your Grenade Launcher"
+msgstr "Du hast deinen Granatenwerfer weggeworfen"
+
+#. Key:	OnWeaponDrop_Successful_LMG					
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Successful_LMG\t\t\t\t\t"
+msgid "You dropped your LMG"
+msgstr "Du hast dein LMG weggeworfen"
+
+#. Key:	OnWeaponDrop_Successful_OverdriveModule		
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Successful_OverdriveModule\t\t"
+msgid "Your flesh tears from ripping off the Overdrive"
+msgstr "Du verletzt dich als du dir das Übertaktungsmodul rausreisst"
+
+#. Key:	OnWeaponDrop_Successful_SmokeGrenade			
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Successful_SmokeGrenade\t\t\t"
+msgid "You dropped your Smoke Grenades"
+msgstr "Du hast deine Rauchgranaten weggeworfen"
+
+#. Key:	OnWeaponDrop_Successful_StockRifle			
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Successful_StockRifle\t\t\t"
+msgid "You dropped your Stock Rifle"
+msgstr "Du hast deine Lagerflinte weggeworfen"
+
+#. Key:	OnWeaponDrop_Successful_VargaRevolver			
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,OnWeaponDrop_Successful_VargaRevolver\t\t\t"
+msgid "You dropped your Varga Revolver"
+msgstr "Du hast deinen Varga-Revolver weggeworfen"
+
+#. Key:	Weapon_Slot_Melee
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,Weapon_Slot_Melee"
+msgid "Melee"
+msgstr "Nahkampfwaffe"
+
+#. Key:	Weapon_Slot_Primary
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,Weapon_Slot_Primary"
+msgid "Primary"
+msgstr "Primär"
+
+#. Key:	Weapon_Slot_Secondary
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,Weapon_Slot_Secondary"
+msgid "Secondary"
+msgstr "Sekundär"
+
+#. Key:	WeaponDesc_BacklineSlugger		
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_BacklineSlugger\t\t"
+msgid "Admired for its armor penetration capabilities, this former battle rifle has been cut down to pistol size and is now only issued to troops not directly involved in combat. The cartridge, however, has remained the same - reducing cost, barrel length, ammo consumption and wrist integrity all in one compact, light package. "
+msgstr "Die PBR-2, im Soldatenmund die \"Faulenzerknarre\", ist eine Selbstverteidigungswaffe, welche bei Unterstützungstrupps die durchschlagskräftigeren Varga-Revolver ersetzen soll, damit diese stattdessen Stosstrupps zur Verfügung gestellt werden können. Die PBR-2 ist bedeutend weniger effektiv auf Distanz - Sanitätern wird daher geraten, sich in der Nähe ihrer Kamaraden aufzuhalten und die Waffe nur in Notfällen zu verwenden."
+
+#. Key:	WeaponDesc_BrassTack				
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_BrassTack\t\t\t\t"
+msgid "Capable of a blistering rate of fire, this SMG has the capability to reign its domain of close range encounters as a king.\r\nThough here, one is not born a king.\r\nThis weapon's fire rate will cut down nigh anyone, but its low capacity and staggering recoil will foil an inexperienced wielder. Therefore, if you long for the crown, you must first train."
+msgstr "Mit ihrer rasanten Feuerrate ist diese Maschinenpistole in der Lage, in Nahkämpfen als König herrschen.\r\nDoch hier wird man nicht als König geboren.\r\nDie Feuerrate dieser Waffe kann zwar fast jeden ausschalten, doch geringe Kapazität und gewaltiger Rückstoß können den unerfahrenen Schützen schnell zum Scheitern bringen. Wenn Sie also nach der Krone streben, müssen Sie zuerst trainieren."
+
+#. Key:	WeaponDesc_BuckPistol				
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_BuckPistol\t\t\t\t"
+msgid "This light-weight automatic shotgun hits like a truck and, if you're not careful, will send it flying out of your hand just as fast. But if you can handle its recoil, your opponents certainly won't be able to handle the ammunition causing it."
+msgstr "Eine selbstladende Schrotflinte mit Salvenfeuerfunktionalität. Leicht, klein und mit genug Kraft einen Büffel auszubremsen, hat diese Waffe zugleich einen monumentalen Rückstoss und Ruf. Doch die, welche diesen zähmen können, halten einer der tödlichsten Nahkampfwaffen im ganzen Arsenal der Armee."
+
+#. Key:	WeaponDesc_Dagger					
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_Dagger\t\t\t\t\t"
+msgid "The most basic, yet critical implement of any soldier. The dagger does its duty not only plunging deep into the flesh of our enemies, but also by saving your life in everyday situations - be it peeling, cutting, opening cans or as a replacement of a fork - this remarkable, simple tool is there to assist you faithfully all the way."
+msgstr "Das grundlegendste, doch unerlässlichste Kampfutensil eines jeden Soldats. Der Dolch rettet dich nicht nur in der Schlacht - sondern auch im Alltag. Er ist ein Schäler, Brotschneider, Dosenöffner, oder sogar eine Improvisierte Gabel. Dieses simple doch elegante Werkzeug ist breit anwendbar und bleibt dir immer treu."
+
+#. Key:	WeaponDesc_Fists					
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_Fists\t\t\t\t\t"
+msgid "High speed, low drag. Why would I say so? Because sometimes extra mobility and a jawbreaker per side is better than anything a sidearm could provide."
+msgstr "Flink und mächtig. Warum? Weil manchmal extra Mobilität und ein Kieferbrecher pro Seite besser ist als alles, was dir 'ne Knarre je geben könnte."
+
+#. Key:	WeaponDesc_Flamer					
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_Flamer\t\t\t\t\t"
+msgid "Improvised as it may be, the flamer nonetheless excels in combat and has quickly become a troop favorite. Assembled from scraps of our glorious fleet, the flamer channels the spirit of these fallen vessels once more, as our soldiers charge through concealing smoke, spraying fiery death at all that may oppose us. "
+msgstr "Der Flammenwerfer ist eine improvisierte, aber nicht unterschätzbare Waffe. Aus zerstörten Schiffskomponenten unserer Flotte zusammengebaut, kann dieses Prachtstück unsere Gegner bei lebendigem Leibe garen. Mögen die Seelen der Marine der Front noch ein letztes Mal dienen."
+
+#. Key:	WeaponDesc_GoldenStandard			
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_GoldenStandard\t\t\t"
+msgid "Forged from the strength of steel, this weapon reflects the glory of your ancestors in every milimetre of its amethyst coating - and your worthiness to wield it. Use it to destroy those that would see its magnificence fade."
+msgstr "Die Stärke gehärteten Stahls brodelt unter der strahlenden Amethystenoberfläche dieser Waffe - der Ruhm deiner Vorfahren schreit in jedem Milimeter nach deiner Würdigkeit, sie in deinen Händen zu halten. Benutze sie um alle zu zerstören, die dessen entgegengesetzt sind."
+
+#. Key:	WeaponDesc_GrenadeLauncher		
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_GrenadeLauncher\t\t"
+msgid "A double barreled design, based on the Nancoid standard-issue grenade launcher from the great war. Though it has been modified significantly, it still evokes imperial pride in great war veterans, bringing memories of the original's legendary performance on the battlefield."
+msgstr "Ein doppelläufiges Design basierend auf dem Standard-Granatenwerfer der Nancoids im grossen Krieg. Obwohl dieses Modell bereits einige Modifikationen erlebt hat, scheint der imperielle Stolz dieser Waffe noch immer in jedem Miligramm Pulver das sie mit Höchstgeschwindigkeit zum Feind liefert."
+
+#. Key:	WeaponDesc_HealingSyringes		
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_HealingSyringes\t\t"
+msgid "A highly potent stimulant that suppresses pain and accelerates blood coagulation.\r\nNo negative side effects have ever been observed."
+msgstr "Ein hochwirksames Stimulans, das schmerzlindernd wirkt und die Blutoxidation beschleunigt.\r\nEs sind noch keine negativen Nebeneffekte festgestellt worden."
+
+#. Key:	WeaponDesc_ImpGrenade				
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_ImpGrenade\t\t\t\t"
+msgid "The weapon of choice for the brave, the grenade has served extensively in this war. One simple turn of the detonator switch is enough to destroy all enemy morale - and you've got 3 in your bag."
+msgstr "Die bescheidene Handgranate, Waffe unser tapfersten Soldaten, hat in diesem Krieg breiten Einsatz über alle Fronten gesehen und ihre Effizienz mehr als nur bewiesen. Ein Reim aus dem Soldatenmund: \"Wenn der Feind das Klicken hört, ist die Moral schon mal zerstört. Doch ich greif nochmal rein ins Fach und wirf ihm noch den Rest drin nach.\""
+
+#. Key:	WeaponDesc_Lmg					
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_Lmg\t\t\t\t\t"
+msgid "Yes, it's heavy. But it is by this heavy steel that the lives of you and your brothers in arms are carried. Whether it classifies as a machine gun or an autocannon is irrelevant, it fires deadly projectiles at the enemy at such a rate that they will be forced into cover. And if they are not, there is plenty of room left where this metal slug will send them."
+msgstr "Ja, der Stahl ist schwer - doch du trägst auch die Last deiner Brüder. Denn während die Waffe das Lied des Munitonsgürtels singt, werden die Feindslinien schweigen - und während sie schweigen - sind deine Brüder in Sicherheit."
+
+#. Key:	WeaponDesc_OverdriveModule		
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_OverdriveModule\t\t"
+msgid "Starting as an illegal modification made by narcotic addicts, the \"OD module\" has now become a daring new part of human attack tactics. The module, integrated into a sturdy breastplate, turns the user into an unstoppable killing machine by freely dispensing the suit's life-saving drugs, otherwise reserved for emergency purposes."
+msgstr "Anfangs schlicht eine Anzugsmodifikation einiger Junkies, wurde das \"Übertaktungsmodul\", nach unerwartetem Erfolg von Bestrafungseinsätzen besagter Junkies, ein innovativer Teil menschlicher Angriffstaktiken. Dank des Moduls können auf Knopfdruck Drogen des Anzugs' Notfallsystems freigegeben werden, was dem Träger unglaubliche Kraft verleiht."
+
+#. Key:	WeaponDesc_SmokeGrenade			
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_SmokeGrenade\t\t\t"
+msgid "Where there's smoke, there's fire."
+msgstr "Wo's raucht, da brennt's."
+
+#. Key:	WeaponDesc_StockRifle				
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_StockRifle\t\t\t\t"
+msgid "Towering as a monument to ingenious human engineering, this fine assault rifle, produced and deployed in the great war over 200 years ago, has once again become the main armament of human soldiers. Designed for maximum flexibility, it is a mighty force multiplier to all that have the privilege to wield it."
+msgstr "Die SAR-1 ist ein Sturmgewehr, welches kurz vor dem grossen Krieg entwickelt wurde. Der Kosename \"die Lagerflinte\" ist wortkarg, aber das Design ist zuverlässig, und ist noch heute massenhaft in Lagern vorhanden."
+
+#. Key:	WeaponDesc_VargaRevolver			
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponDesc_VargaRevolver\t\t\t"
+msgid "Revered for its rich history of over 350 years - spanning back to the colonization era - the Varga still widely remains in use today, owing to its deadly combination of stopping power and accuracy."
+msgstr "Mit über 350 Jahren Geschichte ist \"Varga's Sechsschüsser\" eins der ältesten und einzigen Waffendesigns welche von der alten Erde übrig blieben. Dank hohem Kaliber, simplem Design und tiefen Produktionskosten kanndiese einfache Waffe noch heute überall gefunden werden."
+
+#. Key:	WeaponName_BacklineSlugger		
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_BacklineSlugger\t\t"
+msgid "Backline Slugger"
+msgstr "Faulenzerknarre"
+
+#. Key:	WeaponName_BrassTack				
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_BrassTack\t\t\t\t"
+msgid "Brass Tack"
+msgstr "Messingdusche"
+
+#. Key:	WeaponName_BuckPistol				
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_BuckPistol\t\t\t\t"
+msgid "Buck Pistol"
+msgstr "Streuschusspistole"
+
+#. Key:	WeaponName_Dagger					
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_Dagger\t\t\t\t\t"
+msgid "Dagger"
+msgstr "Dolch"
+
+#. Key:	WeaponName_Fists					
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_Fists\t\t\t\t\t"
+msgid "Fists"
+msgstr "Fäuste"
+
+#. Key:	WeaponName_Flamer					
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_Flamer\t\t\t\t\t"
+msgid "Flamer"
+msgstr "Flammenwerfer"
+
+#. Key:	WeaponName_GoldenStandard			
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_GoldenStandard\t\t\t"
+msgid "Golden Standard"
+msgstr "Das Bannergold"
+
+#. Key:	WeaponName_GrenadeLauncher		
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_GrenadeLauncher\t\t"
+msgid "Grenade Launcher"
+msgstr "Granatenwerfer"
+
+#. Key:	WeaponName_HealingSyringes		
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_HealingSyringes\t\t"
+msgid "Healing Syringes"
+msgstr "Heilspritzen"
+
+#. Key:	WeaponName_HealthPacks			
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_HealthPacks\t\t\t"
+msgid "Health Packs"
+msgstr "Erste Hilfe"
+
+#. Key:	WeaponName_ImpGrenade				
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_ImpGrenade\t\t\t\t"
+msgid "Support Grenades"
+msgstr "Granaten"
+
+#. Key:	WeaponName_Lmg					
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_Lmg\t\t\t\t\t"
+msgid "LMG"
+msgstr "LMG"
+
+#. Key:	WeaponName_OverdriveModule		
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_OverdriveModule\t\t"
+msgid "Overdrive Module"
+msgstr "Übertaktungsmodul"
+
+#. Key:	WeaponName_Shields				
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_Shields\t\t\t\t"
+msgid "Shields"
+msgstr "Schilder"
+
+#. Key:	WeaponName_SmokeGrenade			
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_SmokeGrenade\t\t\t"
+msgid "Smoke Grenades "
+msgstr "Rauchgranaten"
+
+#. Key:	WeaponName_StalwartFriend			
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_StalwartFriend\t\t\t"
+msgid "Stalwart Friend"
+msgstr "Treuer Freund"
+
+#. Key:	WeaponName_StockRifle				
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_StockRifle\t\t\t\t"
+msgid "Stock Rifle"
+msgstr "Lagerflinte"
+
+#. Key:	WeaponName_VargaRevolver			
+#. SourceLocation:	/Game/StringTables/ST_Weapons.ST_Weapons
+#: /Game/StringTables/ST_Weapons.ST_Weapons
+msgctxt "ST_Weapons,WeaponName_VargaRevolver\t\t\t"
+msgid "Varga Revolver"
+msgstr "Varga's Sechsschüsser"
+
+#. Key:	WeaponStat_ActiveSpeedModifier
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_ActiveSpeedModifier"
+msgid "{%} speed when active"
+msgstr "{%} Geschwindigkeit wenn aktiv"
+
+#. Key:	WeaponStat_BulletsInvertedFalloff
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_BulletsInvertedFalloff"
+msgid "Bullets deal more damage from far away"
+msgstr "Schüsse verursachen mehr Schaden von weit weg"
+
+#. Key:	WeaponStat_BulletsNoFalloff
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_BulletsNoFalloff"
+msgid "Bullets have no damage fall-off"
+msgstr "Schüsse haben kein Schadensabklingen"
+
+#. Key:	WeaponStat_ChargeFillType_Damage_Multiple
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_ChargeFillType_Damage_Multiple"
+msgid "Charges fill by damaging enemies"
+msgstr "Ladung füllt sich mit Feindtreffern auf"
+
+#. Key:	WeaponStat_ChargeFillType_Damage_One
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_ChargeFillType_Damage_One"
+msgid "Charge fills by damaging enemies"
+msgstr "Ladung füllt sich mit Feindtreffern auf"
+
+#. Key:	WeaponStat_ChargeFillType_DamageAmmo_Multiple
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_ChargeFillType_DamageAmmo_Multiple"
+msgid "Charges fill by damaging enemies and picking up ammo"
+msgstr "Ladungen füllen sich mit Feindtreffern und Munitionspaketen auf"
+
+#. Key:	WeaponStat_ChargeFillType_DamageAmmo_One
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_ChargeFillType_DamageAmmo_One"
+msgid "Charge fills by damaging enemies and picking up ammo"
+msgstr "Ladung füllt sich mit Feindtreffern und Munitionspaketen auf"
+
+#. Key:	WeaponStat_ChargeFillType_Time_Multiple
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_ChargeFillType_Time_Multiple"
+msgid "Charges refill over time"
+msgstr "Ladungen füllen sich stetig auf"
+
+#. Key:	WeaponStat_ChargeFillType_Time_One
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_ChargeFillType_Time_One"
+msgid "Charge refills over time"
+msgstr "Ladung füllt sich stetig auf"
+
+#. Key:	WeaponStat_CritOnHeadshot
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_CritOnHeadshot"
+msgid "Headshots deal critical damage"
+msgstr "Headshots verursachen kritischen Schaden"
+
+#. Key:	WeaponStat_DeployTime
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_DeployTime"
+msgid "Deploy time: {seconds}s"
+msgstr "Herausholzeit: {seconds}"
+
+#. Key:	WeaponStat_DoubleCaptureRate
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_DoubleCaptureRate"
+msgid "You capture objectives twice as fast"
+msgstr "Du übernimmst Ziele doppelt so schnell"
+
+#. Key:	WeaponStat_EmptyLoadoutSlot_Multiple
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_EmptyLoadoutSlot_Multiple"
+msgid "{numSlots} empty slots"
+msgstr "{numSlots} leere Waffenslots"
+
+#. Key:	WeaponStat_EmptyLoadoutSlot_One
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_EmptyLoadoutSlot_One"
+msgid "1 empty slot"
+msgstr "1 leerer Waffenslot"
+
+#. Key:	WeaponStat_FasterWithLessWeapons
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_FasterWithLessWeapons"
+msgid "Speed boost increases the less weapons you carry"
+msgstr "Geschwindigkeitsbonus steigt mit leeren Waffenslots"
+
+#. Key:	WeaponStat_GrenadeKnockback
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_GrenadeKnockback"
+msgid "Explosions cause knockback"
+msgstr "Explosionen verursachen Knockback"
+
+#. Key:	WeaponStat_GrenadeSelfDamage
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_GrenadeSelfDamage"
+msgid "Your explosions damage you in a bigger radius"
+msgstr "Vergrösserter Explosionsselbstschadensradius"
+
+#. Key:	WeaponStat_GrenadeSmallExplosionRadius
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_GrenadeSmallExplosionRadius"
+msgid "Grenades have a small explosion radius"
+msgstr "Granaten haben einen kleinen Explosionsradius"
+
+#. Key:	WeaponStat_HealthPacks_Deploy
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_HealthPacks_Deploy"
+msgid "Lets you to deploy a backpack full of health packs"
+msgstr "Erlaubt das Platzieren eines Rucksacks mit Erste-Hilfe Kits"
+
+#. Key:	WeaponStat_HealthPacks_RequiresCharge
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_HealthPacks_RequiresCharge"
+msgid "Deploying the backpack requires a full charge"
+msgstr "Das Platzieren des Rucksacks benötigt eine volle Ladung"
+
+#. Key:	WeaponStat_KickSurfaceKnockback
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_KickSurfaceKnockback"
+msgid "Kicks launch you and your enemies"
+msgstr "Tritte werfen dich sowie deine Gegner zurück"
+
+#. Key:	WeaponStat_MaxHealthOnWearer
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_MaxHealthOnWearer"
+msgid "{hpAmount} max health on wearer"
+msgstr "{hpAmount} maximale Trefferpunkte für Benutzer"
+
+#. Key:	WeaponStat_NoRecoilAfterEnoughFire
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_NoRecoilAfterEnoughFire"
+msgid "Recoil will stop after firing for long enough"
+msgstr "Rückstosslos nach langer Feuerzeit"
+
+#. Key:	WeaponStat_Overdrive_DamageOnDrop
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_Overdrive_DamageOnDrop"
+msgid "Deals 50 damage to the wearer when dropped"
+msgstr "Verursacht beim Fallenlassen 50 Trefferpunkte Schaden"
+
+#. Key:	WeaponStat_Overdrive_Kick
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_Overdrive_Kick"
+msgid "Throw a kick"
+msgstr "Einen Tritt geben"
+
+#. Key:	WeaponStat_PassiveSpeedModifier
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_PassiveSpeedModifier"
+msgid "{%} speed on wearer"
+msgstr "{%} Geschwindigkeit für den Benutzer"
+
+#. Key:	WeaponStat_ReducedSpeedWhilstFiring
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_ReducedSpeedWhilstFiring"
+msgid "Reduced speed whilst firing"
+msgstr "Reduzierte Bewegungsgeschwindigkeit beim Feuern"
+
+#. Key:	WeaponStat_Shields_MaxAmount
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_Shields_MaxAmount"
+msgid "Lets you to deploy a max. of 2 shields"
+msgstr "Erlaubt das Platzieren von max. 2 Schilder"
+
+#. Key:	WeaponStat_Shields_RequiresCharge
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_Shields_RequiresCharge"
+msgid "Deploying a shield requires a full charge"
+msgstr "Das Platzieren eines Schilds benötigt eine volle Ladung"
+
+#. Key:	WeaponStat_StalwartFriend_Deploy
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_StalwartFriend_Deploy"
+msgid "Lets you to deploy an operable Grenade Machine Gun"
+msgstr "Erlaubt das Platzieren eines bedienbaren Granatenwerfermaschienengewehres"
+
+#. Key:	WeaponStat_StalwartFriend_RequiresCharge
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_StalwartFriend_RequiresCharge"
+msgid "Deploying the machine gun requires a full charge"
+msgstr "Das Platzieren des Maschinengewehres benötigt eine volle Ladung"
+
+#. Key:	WeaponStat_Stock_CaliberSwitch
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_Stock_CaliberSwitch"
+msgid "Switch ammo types"
+msgstr "Munitionstyp wechseln"
+
+#. Key:	WeaponStat_Stock_HeavyAmmo
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_Stock_HeavyAmmo"
+msgid "Heavy ammo (red) shines in mid-to-long range"
+msgstr "Hochkaliber (rot) ist in langen bis mittleren Distanzen ideal"
+
+#. Key:	WeaponStat_Stock_LightAmmo
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_Stock_LightAmmo"
+msgid "Light ammo (blue) is best in close quarters"
+msgstr "Kleinkaliber (blau) ist für kurze bis mittlere Distanzen geeignet"
+
+#. Key:	WeaponStat_Syringe_HealHurt
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_Syringe_HealHurt"
+msgid "Syringes heal teammates and damage enemies"
+msgstr "Spritzen heilen Teammitglieder und verletzen Feinde"
+
+#. Key:	WeaponStat_Syringe_HealRequiresCharge
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_Syringe_HealRequiresCharge"
+msgid "Healing or throwing requires a full charge"
+msgstr "Heilen oder werfen benötigt eine volle Ladung"
+
+#. Key:	WeaponStat_Syringe_SelfInject
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_Syringe_SelfInject"
+msgid "Inject yourself at double the cost"
+msgstr "Spritze zum doppelten Preis selbst verwenden"
+
+#. Key:	WeaponStat_Syringe_Throw
+#. SourceLocation:	/Game/StringTables/ST_WeaponStats.ST_WeaponStats
+#: /Game/StringTables/ST_WeaponStats.ST_WeaponStats
+msgctxt "WeaponStats,WeaponStat_Syringe_Throw"
+msgid "Throw a syringe"
+msgstr "Eine Spritze werfen"
+
